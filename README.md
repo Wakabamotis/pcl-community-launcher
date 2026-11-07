@@ -68,7 +68,7 @@ entitlement are blocked from the authenticated launch flow.
   website claiming to be the launcher.
 - The launcher does not ask for your password and does not store it.
 - Authentication tokens are stored locally on your device.
-- Report security issues privately to <CONTACT_EMAIL>.
+- Report security issues privately to ren752575@gmail.com.
 
 ## Privacy
 
