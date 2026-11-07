@@ -68,7 +68,7 @@ entitlement are blocked from the authenticated launch flow.
   website claiming to be the launcher.
 - The launcher does not ask for your password and does not store it.
 - Authentication tokens are stored locally on your device.
-- Report security issues privately to ren752575@gmail.com.
+- Report security issues privately to luckwhom@qq.com.
 
 ## Privacy
 
@@ -103,7 +103,7 @@ with the PCL license, including its attribution and naming requirements.
 
 ## Contact
 
-- Email: ren752575@gmail.com
+- Email: luckwhom@qq.com
 - Issues: https://github.com/Wakabamotis/pcl-community-launcher/issues
 
 ## Disclaimer
