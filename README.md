@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34515681/README.md)
 # PCL Community Launcher
 
 An open-source, non-commercial third-party launcher for Minecraft: Java Edition.
