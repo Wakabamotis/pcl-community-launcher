@@ -105,8 +105,8 @@ your own license.
 
 ## Contact
 
-- Email: <CONTACT_EMAIL>
-- Issues: <GITHUB_URL>/issues
+- Email: ren752575@gmail.com
+- Issues: https://github.com/Wakabamotis/pcl-community-launcher/issues
 
 ## Disclaimer
 
