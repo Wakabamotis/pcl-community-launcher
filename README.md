@@ -100,8 +100,6 @@ PCL is copyright (c) 龙腾猫跃 (LTCat) and contributors. See [LICENCE](LICENC
 for the PCL license terms. If you redistribute this project, you must comply
 with the PCL license, including its attribution and naming requirements.
 
-If this repository does not contain PCL-derived code, replace this section with
-your own license.
 
 ## Contact
 
