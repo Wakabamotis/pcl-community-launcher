@@ -7,7 +7,7 @@ non-commercial third-party launcher for Minecraft: Java Edition. This policy
 explains what information the Launcher processes and how it is handled.
 
 **Data controller:** the PCL Community Launcher project maintainers.
-**Contact:** ren752575@gmail.com
+**Contact:** luckwhom@qq.com
 
 ## 1. Summary
 
@@ -122,7 +122,7 @@ delete, or restrict the processing of your personal information. You can:
 
 - sign out of the Launcher and delete its local data;
 - revoke the Launcher's access in your Microsoft account permissions page;
-- contact us at ren752575@gmail.com for privacy requests.
+- contact us at luckwhom@qq.com for privacy requests.
 
 ## 10. Children's privacy
 
@@ -137,7 +137,7 @@ revised, and material changes will be announced in the repository.
 
 ## 12. Contact
 
-- Email: ren752575@gmail.com
+- Email: luckwhom@qq.com
 - Repository: https://github.com/Wakabamotis/pcl-community-launcher
 
 ## 13. Disclaimer
